@@ -14,12 +14,12 @@ Learning Summary Content
    :maxdepth: 2
    
    xml_tutorials
-   XML AJAX
-   XML DOM
-   XPath Tutorial
-   XSLT Tutorial
-   XQuery
-   XML DTD
-   XSD Schema
-   XSD Data Types
-   Web Services
+   xml_ajax
+   xml_dom
+   xpath
+   xslt
+   xquery
+   xmldtd
+   xsd_schema
+   xsd_datatypes
+   web_services
