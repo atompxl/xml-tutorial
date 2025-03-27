@@ -13,7 +13,7 @@ Learning Summary Content
 .. toctree::
    :maxdepth: 2
    
-   XML Tutorial
+   xml_tutorials
    XML AJAX
    XML DOM
    XPath Tutorial
