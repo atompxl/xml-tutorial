@@ -7,10 +7,18 @@ The W3Schools XML tutorial provides a comprehensive introduction to Extensible M
 
    This project is under active development.
 
-Contents
+Learning Summary Content
 --------
 
 .. toctree::
 
-   usage
-   api
+   XML Tutorial
+   XML AJAX
+   XML DOM
+   XPath Tutorial
+   XSLT Tutorial
+   XQuery
+   XML DTD
+   XSD Schema
+   XSD Data Types
+   Web Services
